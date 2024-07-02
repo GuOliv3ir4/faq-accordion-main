@@ -23,8 +23,7 @@ body {
     justify-content: center; 
     flex-direction: column; 
     background-color: var(--Light-pink); 
-    background-image: url("faq-accordion-main
-/images/background-pattern-desktop.svg"); 
+    background-image: url("../images/background-pattern-desktop.svg");
     background-repeat: repeat-x; 
 }
 
