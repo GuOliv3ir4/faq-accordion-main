@@ -84,7 +84,13 @@ button img {
 }
 
 @media screen and (max-width: 600px) {
-    section { width: 375px; }
+    body {
+        background-image: url("../images/background-pattern-mobile.svg");
+    }
+
+    section { 
+        width: 300px; 
+    }
 }
 
 
